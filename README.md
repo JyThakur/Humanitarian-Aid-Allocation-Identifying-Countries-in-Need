@@ -1,4 +1,2 @@
-# Clustering-Algorithm-HELP-NGO
-## This is the dataset of an NGO called HELP International who has decided to provide a data of different countries and asked to perform analysis with model building which could help them to understand and identify countries (on different factors in the dataset) who are in real and urgent need of aid.
-## Doing so will help them to disburse the donation of $10 million USD to needy countries in quicker manner.
-### After analyzing dataset using graphs and charts, I made a conclusion to use KMeans and Hierarchical Clustering Algorithm to build a model that could answer the problem of NGO.
+# Humanitarian Aid Allocation: Identifying Countries in Need
+<p align='justify'>The presented dataset pertains to HELP International, an NGO seeking assistance in analyzing country-specific data. The objective is to identify nations urgently requiring aid based on various factors outlined in the dataset. This analysis will facilitate the efficient allocation of a $10 million USD donation to countries in dire need. The research employs machine learning algorithms, including K-Means and Hierarchical Clustering, to build a model that addresses the NGO's concern. Graphical representations and charts were utilized to evaluate the dataset and make informed decisions regarding the chosen clustering algorithms.</p>
